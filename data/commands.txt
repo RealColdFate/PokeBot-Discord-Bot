@@ -1,0 +1,3 @@
+help~The help command prints a list of available commands and their description.
+type~The type command takes a singe type or list of types and returns a summary of its advantages and disadvantages. If two types are provided it will return a summary for that dual typing combination.
+ping~The ping command returns the user's RTT ping time in milliseconds
